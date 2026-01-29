@@ -1,0 +1,13 @@
+[[config]]
+name = "custom"
+odoo_path = "/home/user/odoo_path"
+addons_paths = [
+    "/home/user/odoo_path/addons", 
+    "$autoDetectAddons"
+]
+addons_merge = "merge"
+file_cache = false
+diag_missing_imports = "none" 
+ac_filter_model_names = true
+auto_refresh_delay = 1000
+no_typeshed_stubs = false

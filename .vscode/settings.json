@@ -1,0 +1,13 @@
+{
+    "python.languageServer": "Default",
+    "python.analysis.extraPaths": [
+        "/home/user/odoo_path", 
+        "/home/user/odoo_path/addons"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/user/odoo_path",
+        "/home/user/odoo_path/addons"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "Odoo.selectedProfile": "custom"
+}
